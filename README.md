@@ -16,6 +16,7 @@ Firstly made sure inquirer is installed in you directory as well as jest and mak
 ## Usage
 
 Provided is a video of how to run the app.
+[Untitled_ Apr 8, 2023 11_50 AM.webm](https://user-images.githubusercontent.com/122936654/230738152-a8cedf48-6267-4145-9edb-58170cec6dfb.webm)
 
 ## Credits
 
